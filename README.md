@@ -1,11 +1,10 @@
 **🛒 Retail Sales Store Data Analysis**
 
-📌 **Project Overview**
 
+📌 **Project Overview**
 This project analyzes retail store sales data to uncover customer behavior, sales trends, category performance, and revenue insights. The objective is to convert raw transactional data into actionable business intelligence using Python for data preparation and exploratory analysis, and Power BI for interactive reporting.
 
 📥 **Dataset Source**
-
 This project uses a publicly available Retail Store Sales dataset sourced from Kaggle.
 
 Dataset Link: https://www.kaggle.com/datasets/sayanpaul2004/retail-store-sales
@@ -15,27 +14,16 @@ The dataset contains transactional sales records used for trend analysis, custom
 📂 **Dataset Description**
 
 Key columns include:
-
 Transaction ID
-
 Customer ID
-
 Category
-
 Item
-
 Price Per Unit
-
 Quantity
-
 Total Spent
-
 Payment Method
-
 Location
-
 Transaction Date
-
 Discount Applied
 
 Both raw and cleaned datasets are available in the data/ folder.
@@ -51,11 +39,8 @@ Power BI – Dashboard creation and reporting
 Python Libraries
 
 pandas
-
 numpy
-
 matplotlib
-
 seaborn
 
 📊 **Analysis Performed**
