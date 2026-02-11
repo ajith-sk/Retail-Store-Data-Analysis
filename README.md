@@ -1,17 +1,17 @@
 # **🛒 Retail Sales Store Data Analysis**
 
 
-###📌 **Project Overview**
+### 📌 **Project Overview**
 This project analyzes retail store sales data to uncover customer behavior, sales trends, category performance, and revenue insights. The objective is to convert raw transactional data into actionable business intelligence using Python for data preparation and exploratory analysis, and Power BI for interactive reporting.
 
-📥 **Dataset Source**
+### 📥 **Dataset Source**
 This project uses a publicly available Retail Store Sales dataset sourced from Kaggle.
 
 Dataset Link: https://www.kaggle.com/datasets/sayanpaul2004/retail-store-sales
 
 The dataset contains transactional sales records used for trend analysis, customer insights, and dashboard development.
 
-📂 **Dataset Description**
+### 📂 **Dataset Description**
 
 Key columns include:
 Transaction ID
@@ -28,7 +28,7 @@ Discount Applied
 
 Both raw and cleaned datasets are available in the data/ folder.
 
-🛠 **Tools & Technologies**
+### 🛠 **Tools & Technologies**
 
 Excel – Initial data validation
 
@@ -43,7 +43,7 @@ numpy
 matplotlib
 seaborn
 
-📊 **Analysis Performed**
+### 📊 **Analysis Performed**
 
 Total Sales & Total Revenue KPIs
 
@@ -61,7 +61,7 @@ Location-based comparison
 
 Overall sales visualization
 
-📈 **Power BI Dashboard Features**
+### 📈 **Power BI Dashboard Features**
 
 KPI Cards (Total Sales, Total Revenue)
 
@@ -75,7 +75,7 @@ Pie & Donut Charts (Payment Type, Discount Applied)
 
 Interactive Slicers (Year, Location, Discount)
 
-🔍 **Key Insights**
+## 🔍 **Key Insights**
 
 Quarter 1 sales are significantly higher compared to other quarters.
 
@@ -87,14 +87,14 @@ Discounted transactions occur nearly twice as often as non-discounted sales, hig
 
 Certain categories dominate revenue, presenting opportunities for targeted marketing and inventory optimization.
 
-📁 **Project Structure**
+### 📁 **Project Structure**
 data/         → Raw & cleaned datasets  
 python/       → EDA notebook  
 powerbi/      → Power BI dashboard  
 screenshots/  → Dashboard images  
 README.md     → Project documentation  
 
-🚀 **Future Enhancements**
+### 🚀 **Future Enhancements**
 
 Apply hypothesis testing to evaluate product sustainability across locations
 
@@ -104,11 +104,11 @@ Add sales forecasting models
 
 Integrate Azure pipelines for automated data ingestion and reporting
 
-📷 **Power BI Dashboard Preview**
+### 📷 **Power BI Dashboard Preview**
 ![Retail Sales Dashboard](https://github.com/ajith-sk/Retail-Store-Data-Analysis/blob/main/Screenshots/Project1_Dashboard_Snip.jpg)
 
 
-👨‍💻 **Author**
+## 👨‍💻 **Author**
 S. Ajith Kumar
 Cloud Engineer (Azure) | Aspiring Data Analyst
 
