@@ -1,7 +1,7 @@
-**🛒 Retail Sales Store Data Analysis**
+# **🛒 Retail Sales Store Data Analysis**
 
 
-📌 **Project Overview**
+###📌 **Project Overview**
 This project analyzes retail store sales data to uncover customer behavior, sales trends, category performance, and revenue insights. The objective is to convert raw transactional data into actionable business intelligence using Python for data preparation and exploratory analysis, and Power BI for interactive reporting.
 
 📥 **Dataset Source**
